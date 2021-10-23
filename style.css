@@ -17,9 +17,9 @@ body {
 
 main{
   background: url(images/Mobile.jpg) no-repeat center/cover;
-  width: 110vw;
+  width: 100vw;
   min-height: 812px;
-  height: 110vh;
+  height: 100vh;
 }
 .container{
   max-width: 250px;
